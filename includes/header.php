@@ -30,6 +30,8 @@
 
         <a href="register.php">Register</a>
 
+        <a href="profile.php">Profile</a>
+
     </nav>
 
 </header>
